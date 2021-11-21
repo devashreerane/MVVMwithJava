@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Devashree_MVVMRxwithJava</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email address</string>
+    <string name="login">login</string>
+    <string name="please_wait">please wait...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="mobile_not_valid">Please enter a valid Mobile Number</string>
+    <string name="email_empty">Please enter your Email Address</string>
+    <string name="email_not_valid">Please enter a valid Email Address</string>
+    <string name="email_mobile_empty">Please enter Email </string>
+
+    <string name="password_empty">Please enter a Password</string>
+    <string name="password_not_valid">Password confirmation does not match</string>-->
+</resources>
